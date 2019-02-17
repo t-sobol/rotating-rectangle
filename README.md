@@ -1,2 +1,4 @@
-# rotating-rectangle
-Simple VBA app supplies the coordinates of a rotating rectangle
+Rotating Rectangle
+==================
+
+This is a simple VBA app that supplies the coordinates of a rotating rectangle.
